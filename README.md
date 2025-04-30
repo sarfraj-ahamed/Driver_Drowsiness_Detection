@@ -119,8 +119,8 @@ Where p1–p6 are eye contour points from MediaPipe.
 
 ## 👨‍💻 Authors
 
-- Your Name – [@yourgithub](https://github.com/yourgithub)
-- Collaborator – (Optional)
+- Your Name – [Sarfraj Ahamed](https://github.com/sarfraj-ahamed)
+- Collaborator – [Sivarama Krishnan](https://github.com/MSRAM-NEC) , [Ram Praveen](https://github.com/praveen-asha) , [Ashwin Krishna](https://github.com/Ashwin-456)
 
 ---
 
