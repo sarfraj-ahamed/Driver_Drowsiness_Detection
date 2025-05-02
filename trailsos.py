@@ -12,8 +12,8 @@ import asyncio
 
 
 # Configuration
-TELEGRAM_BOT_TOKEN = '7515000827:AAFqty4HXz49fpYz6DCsSHUqteKA7grt2oc'
-TELEGRAM_CHAT_ID = '-4767137812'  # Your group chat ID
+TELEGRAM_BOT_TOKEN = #give the telegram bot id
+TELEGRAM_CHAT_ID =  # Your group chat ID
 ESP32_ALERT_DURATION = 0.5  # Seconds of closed eyes to trigger ESP32
 SOS_TRIGGER_TIME = 5        # 5 Seconds (90 seconds) for SOS
 
